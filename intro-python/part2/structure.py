@@ -31,3 +31,4 @@ def main(*args):
 if __name__ == '__main__':
     _, *script_args = sys.argv
     main(*script_args)
+    print(script_args)
