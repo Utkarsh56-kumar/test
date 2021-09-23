@@ -4,6 +4,8 @@
 
 # Create a module variable
 module_variable = "I am a module variable."
+# create a local variable
+local_variable = "I am a local variable."
 
 
 # Define a function that expects to receive a value for an argument variable
